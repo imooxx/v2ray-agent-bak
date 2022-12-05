@@ -1,3 +1,6 @@
+```
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/imooxx/v2ray-agent-bak/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+```
 # v2ray-agent
 > 原作者已删库，本人重新编辑发布
 
